@@ -1,0 +1,28 @@
+.check-in {
+    background: url("./../../static/image/check-in.webp") no-repeat center
+        center scroll;
+    background-size: cover;
+}
+.find-person {
+    background: url("./../../static/image/find-person.gif") no-repeat center
+        center scroll;
+    background-size: cover;
+}
+.disaster-status {
+    background: url("./../../static/image/disaster.jpg") no-repeat center center
+        scroll;
+    background-size: cover;
+}
+.help-guide {
+    background: url("./../../static/image/help.png") no-repeat center center
+        scroll;
+    background-size: cover;
+}
+
+.valign-center {
+    justify-content: center;
+}
+
+.h-md {
+    height: 300px;
+}
